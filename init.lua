@@ -13,10 +13,12 @@ require('colorizer-config')
 require('dashboard-config')
 require('blankline-config')
 -- require('null-ls-config')
+-- just add a commit
 require('format-config')
 require('toggleterm-config')
 require('comment-config')
 require('zen-mode-config')
 require('theme')
--- vim.cmd('colorscheme nord')
+--require('lspsaga')
+vim.cmd('colorscheme nord')
 

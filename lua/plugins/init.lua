@@ -40,6 +40,7 @@ use 'terrortylor/nvim-comment'
 use 'folke/zen-mode.nvim'
 use 'moll/vim-bbye'
 use 'Mofiqul/vscode.nvim'
+use 'tami5/lspsaga.nvim'
 
 use {
   'lewis6991/gitsigns.nvim',
